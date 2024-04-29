@@ -1,0 +1,9 @@
+requests
+Flask
+opentelemetry-sdk
+opentelemetry-distro
+opentelemetry-instrumentation
+opentelemetry-instrumentation-requests
+opentelemetry-instrumentation-flask
+opentelemetry-exporter-jaeger
+protobuf==3.20.*
